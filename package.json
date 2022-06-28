@@ -1,0 +1,11 @@
+{
+  "name": "get-long-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Axel Wine Studios",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
